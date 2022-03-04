@@ -1,7 +1,7 @@
 # Does BERT Know that the IS-A Relation Is Transitive?
 -------------------------------------------
 
-This repository contains the datasets, code, and scripts to conduct the analysis in [Lin and Ng (2022](#reference).
+This repository contains the datasets, code, and scripts to conduct the analysis in [Lin and Ng (2022)](#reference).
 
 ## Reference
 Ruixi Lin and Hwee Tou Ng (2022). 
