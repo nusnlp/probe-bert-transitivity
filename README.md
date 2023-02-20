@@ -11,7 +11,7 @@ Please cite:
 ```
 @inproceedings{lin2022isa,
     title = "Does {BERT} Know that the {IS}-A Relation Is Transitive?",
-    author = "Lin, Ruixi  and Ng, Hwee Tou",
+    author = "Lin, Ruixi and Ng, Hwee Tou",
     booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
     year = "2022",
     url = "https://aclanthology.org/2022.acl-short.11",
