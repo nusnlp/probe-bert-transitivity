@@ -9,7 +9,7 @@ Ruixi Lin and Hwee Tou Ng (2022).
 
 Please cite: 
 ```
-@inproceedings{lin-ng-2022-bert,
+@inproceedings{lin2022isa,
     title = "Does {BERT} Know that the {IS}-A Relation Is Transitive?",
     author = "Lin, Ruixi  and Ng, Hwee Tou",
     booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
