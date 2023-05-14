@@ -5,7 +5,7 @@ This repository contains the datasets, code, and scripts to conduct the analysis
 
 ## Reference
 Ruixi Lin and Hwee Tou Ng (2022). 
-[Does BERT Know that the IS-A Relation Is Transitive?](https://TBD).  Proceedings of the ACL 2022. 
+[Does BERT Know that the IS-A Relation Is Transitive?](https://TBD](https://aclanthology.org/2022.acl-short.11/).  Proceedings of the ACL 2022. 
 
 Please cite: 
 ```
